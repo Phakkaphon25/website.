@@ -24,6 +24,10 @@ body {
         text-align: center;
       }
     
-      .headname {
+      .headname1 {
          color: brown;
       }
+
+      .headname2  {
+        color: rgb(241, 93, 93);
+     }
