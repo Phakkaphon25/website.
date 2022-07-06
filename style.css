@@ -32,3 +32,10 @@ body {
       .headname2  {
         color: rgb(241, 93, 93);
      }
+
+
+     .graphic{
+      background-image: url("images/hello.jpeg"); 
+      height: 320px;
+      padding: auto;
+     }
