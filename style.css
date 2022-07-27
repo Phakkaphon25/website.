@@ -67,3 +67,8 @@ body {
      display: flex;
      justify-content: :left;
     }
+    
+    .topmenu li{
+      float: right;
+      padding: 10px 40px ;
+    }
